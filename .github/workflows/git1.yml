@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  publish-gpr:
+  build:
 
     runs-on: ubuntu-latest
 
