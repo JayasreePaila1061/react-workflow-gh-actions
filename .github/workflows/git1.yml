@@ -23,6 +23,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+        registry-url: https://npm.pkg.github.com/
+        scope: '@JayasreePaila1061'
 
     - name: Cache dependencies
       uses: actions/cache@v2
