@@ -5,6 +5,7 @@
   "homepage": "https://JayasreePaila1061.github.io/react-workflow-gh-actions",
   "publishConfig":  {
     "registry": "https://npm.pkg.github.com@JayasreePaila1061"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
