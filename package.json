@@ -36,10 +36,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
   "author": "",
   "license": "ISC",
-   "publishConfig": {
+  "publishConfig": {
     "@JayasreePaila1061:registry": "https://npm.pkg.github.com"
   }
 }
